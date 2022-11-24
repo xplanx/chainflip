@@ -221,4 +221,5 @@ Congratulations! You should see the new node on the « My nodes » ( there is no
 
 
 
-
+Go for Part2 Setup :
+https://github.com/0xfunda/chainflip/blob/main/Part2.md
