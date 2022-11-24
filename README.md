@@ -4,6 +4,32 @@
 
 ![11](https://user-images.githubusercontent.com/76862881/203728067-b15de7e6-229a-4f19-b348-d5de055e67c7.png)
 
+Requirement
+  <table>
+    <tr>
+      <th>Component
+      <th>Specifications
+    </tr>
+    <tr>
+      <td>	OS
+      <td> Ubuntu 20.04 - PLEASE ONLY USE THIS OS. 
+    </tr>
+     <tr>
+      <td>CPU	
+      <td> 4 GHz | 4+ Cores, Dedicated is better
+    </tr>
+    <tr>
+      <td>RAM	
+      <td> 8 GB
+    </tr>
+    <tr>
+      <td>Storage
+      <td> 50 GB (this may increase over time)
+    </tr>
+   
+  </table>
+
+
 
 1. Download software
 Add Chainflip APT Repository:
