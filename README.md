@@ -242,7 +242,7 @@ We go to the discord and request tokens:
 
 We go to the discord and request tokens:
 
-https://discord.com/channels/824147014140952596/1025410182987137145 
+https://discord.gg/GfqERPKS
 
 we write !drip < the address of your wallet is metamask >
 
