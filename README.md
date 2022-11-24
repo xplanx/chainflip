@@ -4,7 +4,7 @@
 
 ![11](https://user-images.githubusercontent.com/76862881/203728067-b15de7e6-229a-4f19-b348-d5de055e67c7.png)
 
-Requirement
+### Requirement System
   <table>
     <tr>
       <th>Component
@@ -29,7 +29,21 @@ Requirement
    
   </table>
 
+### Recommendation VPS (crypto payment)
+<table>
+    <tr>
+      <th>Provider
+      <th>Link
+    </tr>
+    <tr>
+      <td>PQ HOSTING	
+      <td>https://pq.hosting/?from=542984
+    </tr>
+   
+</table>
 
+
+-
 
 1. Download software
 Add Chainflip APT Repository:
